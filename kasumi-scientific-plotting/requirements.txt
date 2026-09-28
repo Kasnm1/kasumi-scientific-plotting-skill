@@ -1,0 +1,5 @@
+numpy
+matplotlib
+pillow
+PyMuPDF>=1.24.0,<2.0.0
+PyYAML

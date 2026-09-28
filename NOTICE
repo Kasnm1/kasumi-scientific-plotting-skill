@@ -1,0 +1,20 @@
+Kasumi Scientific Plotting Skill
+Copyright 2026 Kasumi Scientific Plotting contributors
+
+This product includes adapted material from nature-skills by Yuan1z0825,
+distributed under the Apache License, Version 2.0:
+https://github.com/Yuan1z0825/nature-skills
+
+This product includes adapted EditaPlot compatibility code, distributed under
+the Apache License, Version 2.0. EditaPlot is independent of OriginLab
+Corporation. Origin and OriginPro are OriginLab trademarks used only to describe
+compatibility. No OriginLab software, activation material, logo, or license is
+distributed.
+
+This product includes adapted material from cell-cns-figure under the MIT
+License. The original copyright notice and license are reproduced in
+THIRD_PARTY_NOTICES.md.
+
+The personal plotting contract, user template, and explicitly labelled example
+materials were consolidated for this repository. Bundled example data are not
+experimental measurements.

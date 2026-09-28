@@ -1,0 +1,5 @@
+pandas
+pillow
+openpyxl
+xlrd
+originpro

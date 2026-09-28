@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kasumi Scientific Plotting"
+  short_description: "Personal scientific plotting and publication figure workflows"
+  default_prompt: "Use $kasumi-scientific-plotting to turn my verified data into a publication-ready scientific figure."
